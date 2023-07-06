@@ -145,10 +145,10 @@ h6 {
     text-decoration: none;
 }
 
-#header .logo {
+#header .logo img {
     padding: 0;
-    margin: 7px 0;
-    max-height: 2px; 
+    margin: -4px 0;
+    max-height: 54px; 
 }
 
 .main-pages {
